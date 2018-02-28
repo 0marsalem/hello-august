@@ -74,6 +74,7 @@ nav a {
 
 .teas {
   display: flex;
+  position: relative;
   flex-direction: column;
   flex-grow: 1;
   margin: 10px;
@@ -152,11 +153,17 @@ footer {
 }
 
 span {
-  
-/*
   position: absolute;
-   top: 20px;
+  top: 20px;
   z-index: 100;
+  margin-left: 50%;
+  color:black;
+  font-size: 30px;
+  font-weight: lighter;
+/*
+  
+  
+  
 */
 /*
   position: absolute;
